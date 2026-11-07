@@ -1,0 +1,11 @@
+{
+  "name": "adhkar-ts-ruqyah-ayah-verifier",
+  "version": "1.0.0",
+  "description": "Authenticated Quranic & Sunnah Ruqyah Verification Engine (دليل آيات وأحاديث الرقية الشرعية الثابتة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
